@@ -1,0 +1,1173 @@
+  <Box sx={{p:2}}>
+            <Box sx={{display:"flex",flexWrap:"wrap",justifyContent:"center",gap:"95px"}}>
+
+
+            <Box mt={3} sx={{padding:"10px"}}>
+                <Card sx={{maxWidth:"350px",padding:"10px",
+                    backgroundColor: 'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
+                    color: 'white',
+                    borderRadius: '15px',
+                    boxShadow: '0 8px 16px rgba(0,0,0,0.3)',
+                      '&:hover': {
+                                transform: 'scale(1.05)',
+                                boxShadow: '0 12px 24px rgba(0,0,0,0.4)',
+                                transition: 'all 0.3s ease-in-out'
+                            }
+                }}>
+                    <CardMedia 
+                    component="img"
+                    alt="React project"
+                    height="200"
+                    image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WgqzsgLUGvsyWzsNMnIVXwLIXas2JM0FkOjMbcZkW1bj5GEa2z-viUSNPiyeM3E7yvA&usqp=CAU"
+
+                    />
+                  <CardContent>
+                    <Typography gutterBottom variant="h5" component="div">
+                        REACT/MUI
+                    </Typography>
+                    <Typography variant="body"  sx={{ color: 'text.secondary' }}>
+                        React and mui Projects 
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    <Button size="small">
+                                   Projects 
+                    </Button>
+                     <Button size="small">
+                                   Codes 
+                    </Button>
+                  </CardActions>
+                </Card>
+            </Box>
+
+
+             <Box mt={3} sx={{padding:"10px"}}>
+                <Card sx={{maxWidth:"350px",padding:"10px",widht:"200px", 
+                    backgroundColor: 'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
+                    color: 'white',
+                    borderRadius: '15px',
+                    boxShadow: '0 8px 16px rgba(0,0,0,0.3)',
+                      '&:hover': {
+                                transform: 'scale(1.05)',
+                                boxShadow: '0 12px 24px rgba(0,0,0,0.4)',
+                                transition: 'all 0.3s ease-in-out'
+                            }
+                }}>
+                    <CardMedia 
+                    component="img"
+                    alt="React project"
+                    height="200"
+                    image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6HXobr12E1282608p2W9GeB0VFu-HmeGqLFG9IuhJJecBAMnIqd0tPWhQdDS_BsZLaY&usqp=CAU"
+
+                />
+                  <CardContent>
+                    <Typography gutterBottom variant="h5" component="div">
+                        REACT/MUI
+                    </Typography>
+                    <Typography variant="body"  sx={{ color: 'text.secondary' }}>
+                        React and mui Projects 
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    <Button size="small">
+                                   Projects 
+                    </Button>
+                     <Button size="small">
+                                   Codes 
+                    </Button>
+                  </CardActions>
+                </Card>
+            </Box>
+
+
+             <Box mt={3} sx={{padding:"10px"}}>
+                <Card sx={{maxWidth:"350px",padding:"10px"}}>
+                    <CardMedia 
+                    component="img"
+                    alt="React project"
+                    height="200"
+                    image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WgqzsgLUGvsyWzsNMnIVXwLIXas2JM0FkOjMbcZkW1bj5GEa2z-viUSNPiyeM3E7yvA&usqp=CAU"
+
+                    />
+                  <CardContent>
+                    <Typography gutterBottom variant="h5" component="div">
+                        REACT/MUI
+                    </Typography>
+                    <Typography variant="body"  sx={{ color: 'text.secondary' }}>
+                        React and mui Projects 
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    <Button size="small">
+                                   Projects 
+                    </Button>
+                     <Button size="small">
+                                   Codes 
+                    </Button>
+                  </CardActions>
+                </Card>
+            </Box>
+
+
+           
+            </Box>
+                    <Box sx={{display:"flex",flexWrap:"wrap",justifyContent:"center",gap:"95px"}}>
+
+
+            <Box mt={3} sx={{padding:"10px"}}>
+                <Card sx={{maxWidth:"350px",padding:"10px",backgroundColor:"rgba(18, 18, 18, 0.7)",borderRadius:"14px"}}>
+                    <CardMedia 
+                    component="img"
+                    alt="React project"
+                    height="200"
+                    image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WgqzsgLUGvsyWzsNMnIVXwLIXas2JM0FkOjMbcZkW1bj5GEa2z-viUSNPiyeM3E7yvA&usqp=CAU"
+
+                    />
+                  <CardContent>
+                    <Typography gutterBottom variant="h5" component="div">
+                        REACT/MUI
+                    </Typography>
+                    <Typography variant="body"  sx={{ color: 'text.secondary' }}>
+                        React and mui Projects 
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    <Button size="small">
+                                   Projects 
+                    </Button>
+                     <Button size="small">
+                                   Codes 
+                    </Button>
+                  </CardActions>
+                </Card>
+            </Box>
+
+
+             <Box mt={3} sx={{padding:"10px"}}>
+                <Card sx={{maxWidth:"350px",padding:"10px"}}>
+                    <CardMedia 
+                    component="img"
+                    alt="React project"
+                    height="200"
+                    image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WgqzsgLUGvsyWzsNMnIVXwLIXas2JM0FkOjMbcZkW1bj5GEa2z-viUSNPiyeM3E7yvA&usqp=CAU"
+
+                    />
+                  <CardContent>
+                    <Typography gutterBottom variant="h5" component="div">
+                        REACT/MUI
+                    </Typography>
+                    <Typography variant="body"  sx={{ color: 'text.secondary' }}>
+                        React and mui Projects 
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    <Button size="small">
+                                   Projects 
+                    </Button>
+                     <Button size="small">
+                                   Codes 
+                    </Button>
+                  </CardActions>
+                </Card>
+            </Box>
+
+
+             <Box mt={3} sx={{padding:"10px"}}>
+                <Card sx={{maxWidth:"350px",padding:"10px"}}>
+                    <CardMedia 
+                    component="img"
+                    alt="React project"
+                    height="200"
+                    image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WgqzsgLUGvsyWzsNMnIVXwLIXas2JM0FkOjMbcZkW1bj5GEa2z-viUSNPiyeM3E7yvA&usqp=CAU"
+
+                    />
+                  <CardContent>
+                    <Typography gutterBottom variant="h5" component="div">
+                        REACT/MUI
+                    </Typography>
+                    <Typography variant="body"  sx={{ color: 'text.secondary' }}>
+                        React and mui Projects 
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    <Button size="small">
+                                   Projects 
+                    </Button>
+                     <Button size="small">
+                                   Codes 
+                    </Button>
+                  </CardActions>
+                </Card>
+            </Box>
+
+
+           
+            </Box>
+            </Box>
+
+
+
+
+
+
+
+
+
+
+                 <ImageList variant="masonry"  sx={{display:"flex"}} >
+                        
+                            <ImageListItem >
+                                <img
+                                //   srcSet={`${item.img}?w=248&fit=crop&auto=format&dpr=2 2x`}
+                                src={img1}
+                                alt="HTML"
+                                loading="lazy"
+                                />
+                                
+                            </ImageListItem>
+                             <ImageListItem >
+                                <img
+                                //   srcSet={`${item.img}?w=248&fit=crop&auto=format&dpr=2 2x`}
+                                src={img2}
+                                alt="CSS"
+                                loading="lazy"
+                                />
+                                
+                            </ImageListItem>
+                             <ImageListItem >
+                                <img
+                                //   srcSet={`${item.img}?w=248&fit=crop&auto=format&dpr=2 2x`}
+                                src={img3}
+                                alt=""
+                                loading="lazy"
+                                />
+                                
+                            </ImageListItem>
+                             <ImageListItem >
+                                <img
+                                //   srcSet={`${item.img}?w=248&fit=crop&auto=format&dpr=2 2x`}
+                                src={img4}
+                                alt=""
+                                loading="lazy"
+                                />
+                                
+                            </ImageListItem>
+                        
+                             <ImageListItem  >
+                                <img
+                                //   srcSet={`${item.img}?w=248&fit=crop&auto=format&dpr=2 2x`}
+                                src={img5}
+                                alt=""
+                                loading="lazy"
+                                />
+                                
+                            </ImageListItem>
+                        
+                        </ImageList>
+                        
+                            
+
+
+                             <Box>
+                 <div style={{width:"10px",display:"flex",gap:"0px"}}>
+
+                        <ul style={{display:"flex",gap:"10px",padding:"0px"}}>
+                            <li><img src={img1} alt="HTML Logo" style={{width:"250px",height:"150px"}} />
+</li>
+                            <li>                    <img src={img2} alt="css Logo" style={{ width:"250px",height:"150px"}} />
+</li>                       <li>                    <img src={img3} alt="javascript Logo" style={{ width:"250px",height:"150px"}} />
+</li>
+<li>                    <img src={img4} alt="React Logo" style={{width:"150px",height:"100px" }} />
+</li>
+<li>                    <img src={img5} alt="tailwindCss Logo" style={{width:"150px",height:"100px" }} />
+</li>
+                        </ul>
+  
+                    </div> 
+            </Box>
+
+
+
+
+
+            ------------------------------------------------------
+            import { AppBar, Avatar, Box, Button, Typography } from "@mui/material";
+import myphoto from "../images/iron.jpg"
+import { Link } from "react-router-dom";
+
+
+
+function Portnavbar(){
+
+    return(
+        <Box>
+             <AppBar  sx={{backgroundColor:"transparent",padding:"10px"}} position="sticky">
+                <Box mt={3} sx={{display:"flex",justifyContent:"space-between"}}>
+                    
+
+                     <Typography variant="p" component="h3" mt={1} >
+                          BALASHANMUGAM
+                    </Typography>  
+                       <Box sx={{display:"flex",alignItems:"center",gap:"30px",fontSize:"12px"}}>
+                         <Link to="/" style={{ color:"inherit", textDecoration:"none" }}>
+                    <Typography variant="body2" component="h3">
+                          Home
+                    </Typography>
+                    </Link>
+                    <Link to="/experience" style={{ color:"inherit", textDecoration:"none"}}>
+
+                     <Typography variant="body2" component="h3">
+                          Experience
+                    </Typography>
+                    </Link>
+                    <Link to="/skils" style={{ color:"inherit", textDecoration:"none"}}><Typography variant="body2" component="h3">
+                          Project
+                    </Typography></Link>
+                   <Link to="/contact"style={{ color:"inherit", textDecoration:"none"}} >
+                     <Typography variant="body2" component="h3">
+                          Contect
+                             </Typography>
+                   </Link>
+
+                   
+                 
+                    <Button sx={{minWidth:"auto",padding:"3", color:"#a7f2e6",borderColor:"#03fcd3"}} variant="outlined">
+                                Resume
+                                </Button>
+                      <Button sx={{minWidth:"auto",padding:"0",border:"4px"}}>
+                                <Avatar alt="I AM BALA" src={myphoto} >
+
+                                </Avatar>
+                    </Button>
+                       
+                       </Box>
+                     
+                           
+                   
+                </Box>
+             </AppBar>
+        </Box>
+    )
+}
+export default Portnavbar;
+
+
+-----------------------------------------
+
+part two
+import { Box, Button, Typography } from "@mui/material";
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import Portsmain from "./Portsmain";
+
+function Portmain(){
+    return(
+        <Box  mt={4}>
+            <Box sx={{color:"white",alignItems:"center",marginLeft:"110px",padding:"80px"}}>
+                <Typography variant="body1" component="h4" sx={{fontSize:"20px",padding:"2px",color:"#03fcd3"}}>
+                     Hi, I am 
+                </Typography><br/>
+                <Typography variant="h3" component="h4" sx={{fontWeight:"bold",fontFamily:"inherit"}} >
+                    BALASHANMUGAM RAJENDRAN
+                </Typography>
+                <Typography variant="h4" component="h4" sx={{ mt: 2,fontFamily:"sans-serif",fontWeight:"bold",   color: "rgba(255,255,255,0.6)"  }}>
+                    Python Full Stack Developer
+                </Typography>
+                
+               <Typography variant="body2" sx={{ mt: 2, maxWidth: "600px",padding:"8px 0px 8px 8px ", color: "white",fontFamily:"initial",fontSize:"15px" }}>
+                I’m a Full Stack Developer specializing in both frontend and backend development. On the frontend,
+                I build elegant interfaces using React and MUI components. On the backend, I design and develop robust REST APIs with Django.
+                </Typography>
+
+                
+           
+                    <Button variant="outlined" sx={{ mt: 3, color: "#03fcd3",borderColor:"#03fcd3", padding:"5px" }}>
+                          Check Out Of My Project & Experience
+                    </Button>
+
+               
+                    <Box sx={{display:"flex",flexDirection:"column",justifyContent:"flex-end",alignItems:"center"}}>
+                    <Button sx={{display:"relative",color:"white",marginTop:"auto"}}>     
+                         Scroll Down
+                          <ExpandMoreIcon />
+                         </Button>
+                         </Box>
+                         <Button sx={{position:"absolute",bottom:{xs:"10px",md:"50px"},left:"50%",top:"94%",
+                         fontSize:{xs:"12px",md:"16px"},padding:{xs:"5px 10px",md:"8px 16px"},transform:"translateX(-50%)",color:"white"}}>
+                            Scroll Down
+                            <ExpandMoreIcon/>
+                         </Button>
+            </Box>
+            <Portsmain/>
+        </Box>
+    )
+}
+
+export default Portmain;
+
+-------------------------------------------------------------------------------
+
+part 3
+
+import { Typography,Box,List,ListItem,ListItemAvatar,Avatar,Divider,ListItemText, Button} from "@mui/material";
+import Porttmain from "./Porttmain";
+// import React from "react";
+
+function Portsmain(){
+    return(
+        <Box mt={6}>
+          <Box>
+            <Typography variant="h4" component="h1" color="#03fcd3"  padding={5} sx={{display:"flex",justifyContent:"center",alignItems:"center",fontWeight:"bold", fontFamily:"serif"}}>
+              Experience
+            </Typography>
+          </Box>
+  <Box mt={4} ml={10}
+      sx={{
+        width: '100%',
+        maxWidth: "360px",
+        color:"white",
+        // background color with opacity effect (rgba or linear-gradient)
+        background: 'rgba(0, 0, 0, 0.85)', // semi-transparent black
+        borderRadius: 14, // rounded corners
+        boxShadow: 5, // subtle shadow
+        p: 5, // padding
+        transition: 'background 0.2s',
+        '&:hover': {
+          background: 'rgba(0, 0, 0, 0.95)', // slightly darker on hover
+        }
+      }}
+    >
+                          <List>
+        <ListItem alignItems="flex-start">
+          <ListItemAvatar>
+            <Avatar alt="React Project" src="https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg" />
+          </ListItemAvatar>
+          <ListItemText>
+            
+                <Typography
+                  component="h2"
+                  variant="h5"
+                  sx={{color:"white",paddingTop:"25px",maxWidth:"200px",padding:"8px 0px 8px 8px ",fontWeight:"bold",fontStyle:"unset" }} >
+                                     FrontEnd Projects 
+                  </Typography>
+               <Box  mt={2} ml={1}> 
+                 <Typography
+                 
+                  component="p"
+                  variant="p"
+                  sx={{display: 'inline',color:"white",marginTop:"20px",fontSize:"13px",width:"100px",fontWeight:"bold",fontStyle:"unset" }}>
+                Build with React & MUI Using modern    
+                  web development tools to design clean, responsive UIs.
+                </Typography>
+               </Box>
+                {/* {" — Using modern web development tools to design clean, responsive UIs."} */}
+
+                <Box mt={2} mr={3}>
+                  <Button variant="outlined" sx={{color:"#34ebba",borderColor:"#34abeb",fontFamily:"sans-serif",fontWeight:"bold",gap:"20px"}} >Projects</Button>
+                  <Button variant="outlined" sx={{marginLeft:"15px",borderColor:"#34abeb",color:"#34ebba",fontFamily:"sans-serif",fontWeight:"bold",gap:"20px"}}>Codes</Button>
+
+
+                </Box>
+            
+            </ListItemText>
+    
+        </ListItem>
+        <Divider variant="inset" component="li" />
+      </List>
+     
+
+            </Box>
+             <Box sx={{display:"flex",justifyContent:"space-between"}}>
+              <Box sx={{}}>
+                  <Typography>Hello</Typography>
+              </Box>
+               <Box mt={1}  mr={20} 
+      sx={{
+        // margin:"auto",
+        display:"flex",
+       flexWrap: "wrap",         // needed for alignContent to work
+       alignContent: "flex-end",
+        width: '100%',
+        maxWidth: "360px",
+        color:"white",
+        // background color with opacity effect (rgba or linear-gradient)
+        background: 'rgba(0, 0, 0, 0.5)', // semi-transparent black
+        borderRadius: 14, // rounded corners
+        boxShadow: 5, // subtle shadow
+        p: 5, // padding
+        left:"50%",
+        transition: 'background 0.2s',
+        '&:hover': {
+          background: 'rgba(0, 0, 0, 0.95)', // slightly darker on hover
+        }
+      }}
+    >
+                          <List>
+        <ListItem alignItems="flex-start" width={200} padding={40}>
+          <ListItemAvatar>
+            <Avatar alt="React Project" src="https://t4.ftcdn.net/jpg/02/99/62/11/360_F_299621124_vutDKbNwRJG6poJRQQIMYfsc4tJCTO5E.jpg" />
+          </ListItemAvatar>
+          <ListItemText>
+            
+                <Typography
+                  component="h2"
+                  variant="h5"
+                  sx={{color:"white",paddingTop:"10px",maxWidth:"200px",padding:"0px 10px  ",fontWeight:"bold",fontStyle:"unset" }} >
+                                     BackEnd Projects 
+                  </Typography>
+               <Box  mt={2} ml={1}> 
+                 <Typography
+                 
+                  component="p"
+                  variant="p"
+                  sx={{display: 'inline',color:"white",marginTop:"20px",fontSize:"13px",width:"100px",fontWeight:"bold",fontStyle:"unset" }}>
+                Build with React & MUI Using modern    
+                  web development tools to design clean, responsive UIs.
+                </Typography>
+               </Box>
+                {/* {" — Using modern web development tools to design clean, responsive UIs."} */}
+
+                <Box mt={2} mr={3}>
+                  <Button variant="outlined" sx={{color:"#34ebba",borderColor:"#34abeb",fontFamily:"sans-serif",fontWeight:"bold",gap:"20px"}} >Projects</Button>
+                  <Button variant="outlined" sx={{marginLeft:"15px",borderColor:"#34abeb",color:"#34ebba",fontFamily:"sans-serif",fontWeight:"bold",gap:"20px"}}>Codes</Button>
+
+
+                </Box>
+            
+            </ListItemText>
+    
+        </ListItem>
+        <Divider variant="inset" component="li" />
+      </List>
+     
+
+            </Box>
+             </Box>
+
+              <Box mt={1}  ml={20} 
+      sx={{
+        // margin:"auto",
+        display:"flex",
+       flexWrap: "wrap",         // needed for alignContent to work
+       alignContent: "flex-end",
+        width: '100%',
+        maxWidth: "360px",
+        color:"white",
+        // background color with opacity effect (rgba or linear-gradient)
+        background: 'rgba(0, 0, 0, 0.85)', // semi-transparent black
+        borderRadius: 14, // rounded corners
+        boxShadow: 5, // subtle shadow
+        p: 5, // padding
+        left:"50%",
+        transition: 'background 0.2s',
+        '&:hover': {
+          background: 'rgba(0, 0, 0, 0.95)', // slightly darker on hover
+        }
+      }}
+    >
+                          <List>
+        <ListItem alignItems="flex-start">
+          <ListItemAvatar>
+            <Avatar alt="React Project" src="https://wallpapercave.com/wp/wp10167056.jpg" />
+          </ListItemAvatar>
+          <ListItemText>
+            
+                <Typography
+                  component="h2"
+                  variant="h5"
+                  sx={{color:"white",paddingTop:"5px",maxWidth:"200px",padding:"8px 0px 8px 8px ",fontWeight:"bold",fontStyle:"unset" }} >
+                                     Fullstack Projects 
+                  </Typography>
+               <Box  mt={2} ml={1}> 
+                 <Typography
+                 
+                  component="p"
+                  variant="p"
+                  sx={{display: 'inline',color:"white",marginTop:"20px",fontSize:"13px",width:"100px",fontWeight:"bold",fontStyle:"unset" }}>
+                Build with React & MUI Using modern    
+                  web development tools to design clean, responsive UIs.
+                </Typography>
+               </Box>
+                {/* {" — Using modern web development tools to design clean, responsive UIs."} */}
+
+                <Box mt={2} mr={3}>
+                  <Button variant="outlined" sx={{color:"#34ebba",borderColor:"#34abeb",fontFamily:"sans-serif",fontWeight:"bold",gap:"20px"}} >Projects</Button>
+                  <Button variant="outlined" sx={{marginLeft:"15px",borderColor:"#34abeb",color:"#34ebba",fontFamily:"sans-serif",fontWeight:"bold",gap:"20px"}}>Codes</Button>
+
+
+                </Box>
+            
+            </ListItemText>
+    
+        </ListItem>
+        <Divider variant="inset" component="li" />
+      </List>
+     
+
+            </Box>
+            <Porttmain/>
+            
+        </Box>
+     
+
+    )
+}
+
+export default Portsmain;
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------
+
+four  part 
+
+
+import { Box,Typography} from "@mui/material";
+import img1 from "../images/html.png"
+import img2 from "../images/css.png"
+import img3 from "../images/js.png"
+import img4 from "../images/react1.png"
+import img5 from "../images/tailwind.png"
+import img6 from "../images/python.png"
+import img7 from "../images/dj.png"
+import img8 from "../images/rest.png"
+import img9 from "../images/mysql.png"
+import img10 from "../images/mui.png"
+import Portfmain from "./Portfmain";
+
+function Porttmain() {
+  return (
+
+    <Box
+      sx={{
+        minHeight: "100vh",
+        // background: "linear-gradient(135deg, #0f0f0f, #1a1a1a)",
+        color: "white",
+        py: 6,
+        px: 2,
+        fontFamily: "Poppins, sans-serif",
+      }}
+
+    >
+      <Typography
+        variant="h4"
+        component="h1"
+        sx={{
+          color: "#34ebba",
+          fontWeight: "bold",
+          textAlign: "center",
+          mb: 4,
+          fontSize: { xs: "28px", md: "40px" },
+        }}
+      >
+        My Skills
+      </Typography>
+
+      <Typography
+       mt={5}
+        variant="h6"
+        sx={{
+          color: "white",
+          textAlign: "center",
+          mb: 4,
+          fontWeight: "bold",
+        }}
+      >
+        The Skills, Tools and Technologies I Use For Projects
+      </Typography>
+
+      <Box mt={5} padding={5}
+        sx={{
+          display: "flex",
+        //   flexWrap: "wrap",
+          justifyContent: "center", 
+          maxWidth: "1800px",
+          mx: "auto",
+          marginTop:"30px"
+        }}
+      >
+        {[img1, img2, img3, img4, img5].map((img, idx) => (
+          <Box
+            key={idx}
+            sx={{
+              width: { xs: "200px", md: "80px",lg:"200px" },
+              height: { xs: "100px", md: "80px",lg:"100px" },
+            //   transition: "transform 0.3s ease",
+            //   "&:hover": {
+            //     transform: "scale(1.2)",
+            //   },
+            }}
+          >
+            <img
+              src={img}
+              alt={`Skill ${idx + 1}`}
+              style={{
+                width: "100%",
+                height: "100%",
+                objectFit: "contain",
+                // filter: "drop-shadow(0 0 10px #34ebba)",
+              }}
+            />
+          </Box>
+        ))}
+      </Box>
+        <Box
+        sx={{
+          display: "flex",
+          flexWrap: "wrap",
+          justifyContent: "center",
+          gap: "50px",
+          maxWidth: "1200px",
+          mx: "auto",
+        }}
+      >
+        {[img6,img7, img8, img9, img10].map((img, idx) => (
+          <Box
+            key={idx}
+            sx={{
+              marginTop:"30px",  
+              width: { xs: "200px", md: "80px",lg:"110px",xl:"200px" },
+              height: { xs: "100px", md: "80px",lg:"100px",xl:"100px" },
+            //   transition: "transform 0.3s ease",
+            //   "&:hover": {
+            //     transform: "scale(1.2)",
+            //   },
+            }}
+          >
+            <img
+              src={img}
+              alt={`Skill ${idx + 1}`}
+              style={{
+                width: "100%",
+                height: "100%",
+                objectFit: "contain",
+                // filter: "drop-shadow(0 0 10px #34ebba)",
+              }}
+            />
+          </Box>
+        ))}
+      </Box>
+          <Portfmain/>
+
+    </Box>
+
+  );
+}
+
+export default Porttmain;
+
+
+
+--------------------------------------------------------------
+
+
+---------------------------------------------------
+
+version 2
+
+
+import { Box, Typography, List, ListItem, ListItemAvatar, Avatar, ListItemText, Divider, Button } from "@mui/material";
+import Porttmain from "./Porttmain";
+
+function Portsmain() {
+  return (
+    <Box  sx={{marginTop:{xs:"110px",md:"30px"}}}>
+      <Box  >
+        <Typography
+          variant="h4"
+          component="h1"
+          color="#03fcd3"
+          padding={5}
+          sx={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            fontWeight: "bold",
+            fontFamily: "serif",
+            marginTop:{xs:"40px",md:"30px"}
+          }}
+        >
+          Experience
+        </Typography>
+      </Box>
+
+      {/* Frontend Projects */}
+      <Box
+        mt={4}
+        ml={10}
+        sx={{
+          width: '100%',
+          maxWidth: "360px",
+          color: "white",
+          background: 'rgba(0, 0, 0, 0.85)',
+          borderRadius: 14,
+          boxShadow: 5,
+          p: 5,
+          transition: 'background 0.2s',
+          '&:hover': { background: 'rgba(0, 0, 0, 0.95)' },
+          // 👉 mobile view:
+          mx: { xs: "auto", md: 0 },
+          mt: { xs: 2, md: 4 },
+        }}
+      >
+        <List>
+          <ListItem alignItems="flex-start">
+            <ListItemAvatar>
+              <Avatar alt="React Project" src="https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg" />
+            </ListItemAvatar>
+            <ListItemText>
+              <Typography
+                component="h2"
+                variant="h5"
+                sx={{
+                  color: "white",
+                  paddingTop: "25px",
+                  maxWidth: "200px",
+                  padding: "8px 0px 8px 8px",
+                  fontWeight: "bold",
+                  fontStyle: "unset"
+                }}
+              >
+                FrontEnd Projects
+              </Typography>
+              <Box mt={2} ml={1}>
+                <Typography
+                  component="p"
+                  variant="p"
+                  sx={{
+                    display: 'inline',
+                    color: "white",
+                    marginTop: "20px",
+                    fontSize: "13px",
+                    width: "100px",
+                    fontWeight: "bold",
+                    fontStyle: "unset"
+                  }}
+                >
+Frontend projects involve building the user facing part of websites and applications  focusing on visual elements and user Interaction                </Typography>
+              </Box>
+              <Box mt={2} mr={3}>
+                <Button variant="outlined"   component="a"
+    href="https://github.com/balaharringto/interen_meetup"
+    target="_blank"
+    rel="noopener noreferrer" sx={{ color: "#34ebba", borderColor: "#34abeb", fontFamily: "sans-serif", fontWeight: "bold", gap: "20px" }}>Projects</Button>
+                <Button variant="outlined"   component="a"
+    href="https://github.com/balaharringto/interen_meetup"
+    target="_blank"
+    rel="noopener noreferrer" sx={{ marginLeft: "15px", borderColor: "#34abeb", color: "#34ebba", fontFamily: "sans-serif", fontWeight: "bold", gap: "20px" }}>Codes</Button>
+              </Box>
+            </ListItemText>
+          </ListItem>
+          <Divider variant="inset" component="li" />
+        </List>
+      </Box>
+
+      {/* Backend Projects */}
+      <Box
+        mt={1}
+        mr={20}
+        sx={{
+          marginTop:{xs:"50px",md:"50px"},
+          display: "flex",
+          flexWrap: "wrap",
+          alignContent: "flex-end",
+          width: '100%',
+          maxWidth: "360px",
+          color: "white",
+          background: 'rgba(0, 0, 0, 0.5)',
+          borderRadius: 14,
+          boxShadow: 5,
+          p: 5,
+          left: "50%",
+          transition: 'background 0.2s',
+          '&:hover': { background: 'rgba(0, 0, 0, 0.95)' },
+          // 👉 mobile view:
+          mx: { xs: "auto", md: 0 },
+          mt: { xs: 2, md: 1 },
+        }}
+      >
+        <List >
+          <ListItem alignItems="flex-start" width={200} padding={40} >
+            <ListItemAvatar>
+              <Avatar alt="React Project" src="https://t4.ftcdn.net/jpg/02/99/62/11/360_F_299621124_vutDKbNwRJG6poJRQQIMYfsc4tJCTO5E.jpg" />
+            </ListItemAvatar>
+            <ListItemText>
+              <Typography
+                component="h2"
+                variant="h5"
+                sx={{
+                  color: "white",
+                  paddingTop: "10px",
+                  maxWidth: "200px",
+                  padding: "0px 10px",
+                  fontWeight: "bold",
+                  fontStyle: "unset"
+                }}
+              >
+                BackEnd Projects
+              </Typography>
+              <Box mt={2} ml={1}>
+                <Typography
+                  component="p"
+                  variant="p"
+                  sx={{
+                    display: 'inline',
+                    color: "white",
+                    marginTop: "20px",
+                    fontSize: "13px",
+                    width: "100px",
+                    fontWeight: "bold",
+                    fontStyle: "unset"
+                  }}
+                >
+Backend projects involve server-side development, focusing on databases, APIs authentication, and overall application Logic                 </Typography>
+              </Box>
+              <Box mt={2} mr={3}>
+                <Button variant="outlined"   component="a"
+    href="https://github.com/balaharringto/interen_meetup"
+    target="_blank"
+    rel="noopener noreferrer" sx={{ color: "#34ebba", borderColor: "#34abeb", fontFamily: "sans-serif", fontWeight: "bold", gap: "20px" }}>Projects</Button>
+                <Button variant="outlined"   component="a"
+    href="https://github.com/balaharringto/interen_meetup"
+    target="_blank"
+    rel="noopener noreferrer" sx={{ marginLeft: "15px", borderColor: "#34abeb", color: "#34ebba", fontFamily: "sans-serif", fontWeight: "bold", gap: "20px" }}>Codes</Button>
+              </Box>
+            </ListItemText>
+          </ListItem>
+          <Divider variant="inset" component="li" />
+        </List>
+      </Box>
+
+      {/* Fullstack Projects */}
+      <Box
+        mt={1}
+        ml={20}
+        sx={{
+          marginTop:{xs:"50px",md:"50px"},
+          display: "flex",
+          flexWrap: "wrap",
+          alignContent: "flex-end",
+          width: '100%',
+          maxWidth: "360px",
+          color: "white",
+          background: 'rgba(0, 0, 0, 0.85)',
+          borderRadius: 14,
+          boxShadow: 5,
+          p: 5,
+          left: "50%",
+          transition: 'background 0.2s',
+          '&:hover': { background: 'rgba(0, 0, 0, 0.95)' },
+          // 👉 mobile view:
+          mx: { xs: "auto", md: 0 },
+          mt: { xs: 2, md: 1 },
+        }}
+      >
+        <List>
+          <ListItem alignItems="flex-start">
+            <ListItemAvatar>
+              <Avatar alt="React Project" src="https://wallpapercave.com/wp/wp10167056.jpg" />
+            </ListItemAvatar>
+            <ListItemText>
+              <Typography
+                component="h2"
+                variant="h5"
+                sx={{
+                  color: "white",
+                  paddingTop: "5px",
+                  maxWidth: "200px",
+                  padding: "8px 0px 8px 8px",
+                  fontWeight: "bold",
+                  fontStyle: "unset"
+                }}
+              >
+                Fullstack Projects
+              </Typography>
+              <Box mt={2} ml={1}>
+                <Typography
+                  component="p"
+                  variant="p"
+                  sx={{
+                    display: 'inline',
+                    color: "white",
+                    marginTop: "20px",
+                    fontSize: "13px",
+                    width: "100px",
+                    fontWeight: "bold",
+                    fontStyle: "unset"
+                  }}
+                >
+Full-stack projects involve developing both the front-end (user interface) and back-end (server, database, and application logic) of a web application.                </Typography>
+              </Box>
+              <Box mt={2} mr={3}>
+                <Button variant="outlined"   component="a"
+    href="https://github.com/balaharringto/interen_meetup"
+    target="_blank"
+    rel="noopener noreferrer" sx={{ color: "#34ebba", borderColor: "#34abeb", fontFamily: "sans-serif", fontWeight: "bold", gap: "20px" }}>Projects</Button>
+                <Button variant="outlined"   component="a"
+    href="https://github.com/balaharringto/interen_meetup"
+    target="_blank"
+    rel="noopener noreferrer" sx={{ marginLeft: "15px", borderColor: "#34abeb", color: "#34ebba", fontFamily: "sans-serif", fontWeight: "bold", gap: "20px" }}>Codes</Button>
+              </Box>
+            </ListItemText>
+          </ListItem>
+          <Divider variant="inset" component="li" />
+        </List>
+    
+    
+      </Box>
+ 
+ {/* internship certificate  1*/}
+ 
+ <Box
+        mt={1}
+        ml={20}
+        sx={{
+          marginTop:{xs:"50px",md:"50px"},
+          display: "flex",
+          flexWrap: "wrap",
+          alignContent: "flex-end",
+          width: '100%',
+          maxWidth: "360px",
+          color: "white",
+          background: 'rgba(0, 0, 0, 0.85)',
+          borderRadius: 14,
+          boxShadow: 5,
+          p: 5,
+          left: "50%",
+          transition: 'background 0.2s',
+          '&:hover': { background: 'rgba(0, 0, 0, 0.95)' },
+          // 👉 mobile view:
+          mx: { xs: "auto", md: 0 },
+          mt: { xs: 2, md: 1 },
+        }}
+      >
+        <List>
+          <ListItem alignItems="flex-start">
+            <ListItemAvatar>
+              <Avatar alt="React Project" src="https://wallpapercave.com/wp/wp10167056.jpg" />
+            </ListItemAvatar>
+            <ListItemText>
+              <Typography
+                component="h2"
+                variant="h5"
+                sx={{
+                  color: "white",
+                  paddingTop: "5px",
+                  maxWidth: "400px",
+                  padding: "8px 0px 8px 8px",
+                  fontWeight: "bold",
+                  fontStyle: "unset"
+                }}
+              >
+            InternShip Certificate     
+              </Typography>
+              <Box mt={2} ml={1}>
+                <Typography
+                  component="p"
+                  variant="p"
+                  sx={{
+                    display: 'inline',
+                    color: "white",
+                    marginTop: "20px",
+                    fontSize: "13px",
+                    width: "100px",
+                    fontWeight: "bold",
+                    fontStyle: "unset"
+                  }}
+                >
+                  Build with React & MUI Using modern web development tools to design clean, responsive UIs.
+                </Typography>
+              </Box>
+              <Box mt={2} mr={3}>
+                <Button variant="outlined" sx={{ color: "#34ebba", borderColor: "#34abeb", fontFamily: "sans-serif", fontWeight: "bold", gap: "20px" }}>Download</Button>
+                <Button variant="outlined" sx={{ marginLeft: "15px", borderColor: "#34abeb", color: "#34ebba", fontFamily: "sans-serif", fontWeight: "bold", gap: "20px" }}>View</Button>
+              </Box>
+            </ListItemText>
+          </ListItem>
+          <Divider variant="inset" component="li" />
+        </List>
+      </Box>
+
+       {/* internship certificate  2*/}
+ 
+ <Box
+        mt={1}
+        ml={20}
+        sx={{
+          marginTop:{xs:"50px",md:"50px"},
+          display: "flex",
+          flexWrap: "wrap",
+          alignContent: "flex-end",
+          width: '100%',
+          maxWidth: "360px",
+          color: "white",
+          background: 'rgba(0, 0, 0, 0.85)',
+          borderRadius: 14,
+          boxShadow: 5,
+          p: 5,
+          left: "50%",
+          transition: 'background 0.2s',
+          '&:hover': { background: 'rgba(0, 0, 0, 0.95)' },
+          // 👉 mobile view:
+          mx: { xs: "auto", md: 0 },
+          mt: { xs: 2, md: 1 },
+        }}
+      >
+        <List>
+          <ListItem alignItems="flex-start">
+            <ListItemAvatar>
+              <Avatar alt="React Project" src="https://wallpapercave.com/wp/wp10167056.jpg" />
+            </ListItemAvatar>
+            <ListItemText>
+              <Typography
+                component="h2"
+                variant="h5"
+                sx={{
+                  color: "white",
+                  paddingTop: "5px",
+                  maxWidth: "400px",
+                  padding: "8px 0px 8px 8px",
+                  fontWeight: "bold",
+                  fontStyle: "unset"
+                }}
+              >
+InternShip Certificate     
+         </Typography>
+              <Box mt={2} ml={1}>
+                <Typography
+                  component="p"
+                  variant="p"
+                  sx={{
+                    display: 'inline',
+                    color: "white",
+                    marginTop: "20px",
+                    fontSize: "13px",
+                    width: "100px",
+                    fontWeight: "bold",
+                    fontStyle: "unset"
+                  }}
+                >
+                  Build with React & MUI Using modern web development tools to design clean, responsive UIs.
+                </Typography>
+              </Box>
+              <Box mt={2} mr={3}>
+                <Button variant="outlined" sx={{ color: "#34ebba", borderColor: "#34abeb", fontFamily: "sans-serif", fontWeight: "bold", gap: "20px" }}>Download</Button>
+                <Button variant="outlined" sx={{ marginLeft: "15px", borderColor: "#34abeb", color: "#34ebba", fontFamily: "sans-serif", fontWeight: "bold", gap: "20px" }}>View</Button>
+              </Box>
+            </ListItemText>
+          </ListItem>
+          <Divider variant="inset" component="li" />
+        </List>
+      </Box>
+      {/* next component */}
+      <Porttmain />
+    </Box>
+  );
+}
+
+export default Portsmain;
